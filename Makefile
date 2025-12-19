@@ -11,6 +11,6 @@ miedit: $(OBJS)
 	$(CC) $(CFLAGS) -c $< -o $@
 
 clean:
-	rm -f $(OBJS) miedit
+	rm -f $(OBJS) mizzedit
 
 .PHONY: clean

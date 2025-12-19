@@ -2,3 +2,5 @@ hist
 hist-ncurses
 test-dp
 editor
+*.o
+mizzedit
